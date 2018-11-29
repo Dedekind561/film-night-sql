@@ -1,0 +1,13 @@
+{
+  "name": "film-night-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch-utils.js",
+  "scripts": {
+    "seed:db": "psql -f ./db/seed/seed.sql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
